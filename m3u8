@@ -85,8 +85,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd?id=1
 #EXTVLCOPT:http-user-agent=RTMKlik/3.0.54 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd?id=2
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/72/93/6b/72936b9b30464fe437ce3c46fbb10689.jpg" group-title="🔴⚪NASIONAL",TV3 Malaysia
-https://smart.pendy.dpdns.org/Smart.php?id=TV3
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/7e/71/43/7e714309e9e50baaf3699db6898025c2.jpg" group-title="🔴⚪NASIONAL",TV 6 Malaysia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my
+
+##################################################### BURNAI #########################################################################
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/3d/fd/d4/3dfdd41ad4afb593d220d3bb92fde927.jpg" group-title="🔴⚪BURNAI",RTB SUKMAINDERA BRUNAI
+https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist.m3u8
