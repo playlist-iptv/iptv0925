@@ -75,5 +75,18 @@ https://cdn10jtedge.indihometv.com/atm/DASH/jawapos/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/magna.jpg" group-title="INDONESIA TV",MAGNA
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
+##################################################### Malaysia #########################################################################
 
-#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/14/d9/24/14d924bd576994eead6db27f9f67b429.jpg" group-title="🔴⚪NASIONAL",TV1 MALAYSIA
+#EXTVLCOPT:http-user-agent=RTMKlik/3.0.54 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd?id=1
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/25/40/23/254023c9908116a0260f391864a8c4af.jpg" group-title="🔴⚪NASIONAL",TV2 MALAYSIA
+#EXTVLCOPT:http-user-agent=RTMKlik/3.0.54 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd?id=2
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/72/93/6b/72936b9b30464fe437ce3c46fbb10689.jpg" group-title="🔴⚪NASIONAL",TV3 Malaysia
+https://smart.pendy.dpdns.org/Smart.php?id=TV3
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/7e/71/43/7e714309e9e50baaf3699db6898025c2.jpg" group-title="🔴⚪NASIONAL",TV 6 Malaysia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my
